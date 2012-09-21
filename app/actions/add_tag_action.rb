@@ -45,7 +45,7 @@ end
 
 ##############################cronchk4
 
-#########slavechk---slavechk2
+#########slavechk---slavechk2----slavechk3---
 
 ##########skdgd--@@@@@@@@@--@@@@@-----@@@@----
 
